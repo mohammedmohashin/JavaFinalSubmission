@@ -1,0 +1,14 @@
+<Login>
+    <idpass>
+        <user>usernamemohashin1</user>
+        <pass>mohashin1</pass>
+    </idpass>
+    <idpass>
+        <user>usernamemohashin2</user>
+        <pass>mohashin2</pass>
+    </idpass>
+    <idpass>
+        <user>usernamemohashin3</user>
+        <pass>mohashin3</pass>
+    </idpass>
+</Login>
